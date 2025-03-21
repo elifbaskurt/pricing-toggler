@@ -46,7 +46,7 @@ You can easily customize the component by modifying:
 
 - HTML5
 - CSS3
-- 
+
 ## Browser Support
 
 - Chrome
